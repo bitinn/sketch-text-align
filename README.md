@@ -32,7 +32,7 @@ Folder name and plugin filename will show up as items in Sketch `Plugins` menu.
 
 # Note
 
-This plugin does not fix multiline text layer line height and padding issues, it makes aligning multiple text layer easier instead.
+This plugin does not fix multiline text layer or weird padding issues, it makes aligning multiple text layers much easier instead (so you can avoid wordwrap in Sketch).
 
 
 # License
