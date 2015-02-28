@@ -11,7 +11,7 @@ Properly align text layers regardless of their rectangle box in Sketch
 
 Because Sketch v3.x still has less than ideal support for font-size and line-height, especially when you are dealing with CJK language (Some say it's a limit of OSX). This plugin allow you to align text as imagined, ignoring those incorrectly calculated text rectangles.
 
-This plugin is tested with Sketch version 3.2.2 (9983).
+This plugin has been tested on Sketch v3.2 and v3.3 beta
 
 
 # Install
